@@ -1,0 +1,5 @@
+
+<input id="txt-create-item" type="text" class="form-control input-lg" placeholder="New Todo Item" />
+
+<a class="btn btn-primary pull-right btn-lg" id="btn-create-item">Create</a>
+
